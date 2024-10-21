@@ -1,8 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[2024FW]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>2024FW</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 16 Oct 2024 23:30:10 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 16 Oct 2024 23:30:10 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Clean Code(클린 코드)]]></title><description><![CDATA[ 
- <br><a rel="noopener nofollow" class="external-link" href="https://product.kyobobook.co.kr/detail/S000001032980" target="_blank">https://product.kyobobook.co.kr/detail/S000001032980</a>]]></description><link>Clean Code(클린 코드).html</link><guid isPermaLink="false">Clean Code(클린 코드).md</guid><pubDate>Wed, 16 Oct 2024 13:08:52 GMT</pubDate></item><item><title><![CDATA[HTTP 완벽 가이드]]></title><description><![CDATA[ 
- <br><a rel="noopener nofollow" class="external-link" href="https://product.kyobobook.co.kr/detail/S000001033001" target="_blank">https://product.kyobobook.co.kr/detail/S000001033001</a>]]></description><link>HTTP 완벽 가이드.html</link><guid isPermaLink="false">HTTP 완벽 가이드.md</guid><pubDate>Wed, 16 Oct 2024 13:09:28 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[2024FW]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>2024FW</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 21 Oct 2024 23:56:57 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 21 Oct 2024 23:56:56 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Clean Code(클린 코드)]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://product.kyobobook.co.kr/detail/S000001032980" target="_blank">https://product.kyobobook.co.kr/detail/S000001032980</a><br><br>
+<br>더 나은 코드 작성능력
+<br>불필요한 코드 리팩토링 능력
+<br>테스트 코드 작성
+<br><br>
+<br>독서
+<br>내용 정리 및 발표
+<br>실습
+]]></description><link>Clean Code(클린 코드).html</link><guid isPermaLink="false">Clean Code(클린 코드).md</guid><pubDate>Wed, 16 Oct 2024 23:52:26 GMT</pubDate></item><item><title><![CDATA[HTTP 완벽 가이드]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://product.kyobobook.co.kr/detail/S000001033001" target="_blank">https://product.kyobobook.co.kr/detail/S000001033001</a><br><br>
+<br>웹 서비스의 기본 HTTP 이해 향상
+<br>웹서버, 프록시, 사용자 인증 이해 향상
+<br><br>
+<br>독서
+<br>내용 정리 및 발표
+<br>실습
+]]></description><link>HTTP 완벽 가이드.html</link><guid isPermaLink="false">HTTP 완벽 가이드.md</guid><pubDate>Wed, 16 Oct 2024 23:52:34 GMT</pubDate></item><item><title><![CDATA[Overview]]></title><description><![CDATA[ 
  <br><br><br><a data-href="Clean Code(클린 코드)" href="\Clean Code(클린 코드).html" class="internal-link" target="_self" rel="noopener nofollow">Clean Code(클린 코드)</a><br>
 <a data-href="HTTP 완벽 가이드" href="\HTTP 완벽 가이드.html" class="internal-link" target="_self" rel="noopener nofollow">HTTP 완벽 가이드</a><br>
-<a data-href="SQL 전문가 가이드 (SQLP,D 자격취득)" href="\SQL 전문가 가이드 (SQLP,D 자격취득).html" class="internal-link" target="_self" rel="noopener nofollow">SQL 전문가 가이드 (SQLP,D 자격취득)</a><br><br><a data-href="Spring Boot를 활용하여 채팅 플랫폼 만들어보기" href="\Spring Boot를 활용하여 채팅 플랫폼 만들어보기.html" class="internal-link" target="_self" rel="noopener nofollow">Spring Boot를 활용하여 채팅 플랫폼 만들어보기</a>]]></description><link>Overview.html</link><guid isPermaLink="false">Overview.md</guid><pubDate>Wed, 16 Oct 2024 23:29:42 GMT</pubDate></item><item><title><![CDATA[Spring Boot를 활용하여 채팅 플랫폼 만들어보기]]></title><description><![CDATA[ 
- <br><a rel="noopener nofollow" class="external-link" href="https://www.inflearn.com/course/%EB%8C%80%EA%B8%B0%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-spring-%EB%8C%80%EC%9A%A9%EB%9F%89-tps" target="_blank">https://www.inflearn.com/course/%EB%8C%80%EA%B8%B0%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-spring-%EB%8C%80%EC%9A%A9%EB%9F%89-tps</a>]]></description><link>Spring Boot를 활용하여 채팅 플랫폼 만들어보기.html</link><guid isPermaLink="false">Spring Boot를 활용하여 채팅 플랫폼 만들어보기.md</guid><pubDate>Wed, 16 Oct 2024 13:10:06 GMT</pubDate></item><item><title><![CDATA[SQL 전문가 가이드 (SQLP,D 자격취득)]]></title><description><![CDATA[ 
- <br><a rel="noopener nofollow" class="external-link" href="https://product.kyobobook.co.kr/detail/S000001399869" target="_blank">https://product.kyobobook.co.kr/detail/S000001399869</a> ]]></description><link>SQL 전문가 가이드 (SQLP,D 자격취득).html</link><guid isPermaLink="false">SQL 전문가 가이드 (SQLP,D 자격취득).md</guid><pubDate>Wed, 16 Oct 2024 13:11:20 GMT</pubDate></item></channel></rss>
+<a data-href="SQL 전문가 가이드 (SQLP,D 자격취득)" href="\SQL 전문가 가이드 (SQLP,D 자격취득).html" class="internal-link" target="_self" rel="noopener nofollow">SQL 전문가 가이드 (SQLP,D 자격취득)</a><br><br><a data-href="Spring Boot를 활용하여 채팅 플랫폼 만들어보기" href="\Spring Boot를 활용하여 채팅 플랫폼 만들어보기.html" class="internal-link" target="_self" rel="noopener nofollow">Spring Boot를 활용하여 채팅 플랫폼 만들어보기</a><br><br>예상) 격주 월요일 19-21:00 ]]></description><link>Overview.html</link><guid isPermaLink="false">Overview.md</guid><pubDate>Mon, 21 Oct 2024 23:56:37 GMT</pubDate></item><item><title><![CDATA[Spring Boot를 활용하여 채팅 플랫폼 만들어보기]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://www.inflearn.com/course/%EB%8C%80%EA%B8%B0%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-spring-%EB%8C%80%EC%9A%A9%EB%9F%89-tps" target="_blank">https://www.inflearn.com/course/%EB%8C%80%EA%B8%B0%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-spring-%EB%8C%80%EC%9A%A9%EB%9F%89-tps</a><br><br>
+<br>SpringBoot 실력
+<br>네트워크 지식
+<br>JWT
+<br><br>
+<br>온라인 강의학습
+<br>특정개념 심화학습
+]]></description><link>Spring Boot를 활용하여 채팅 플랫폼 만들어보기.html</link><guid isPermaLink="false">Spring Boot를 활용하여 채팅 플랫폼 만들어보기.md</guid><pubDate>Mon, 21 Oct 2024 23:55:02 GMT</pubDate></item><item><title><![CDATA[SQL 전문가 가이드 (SQLP,D 자격취득)]]></title><description><![CDATA[ 
+ <br><a rel="noopener nofollow" class="external-link" href="https://product.kyobobook.co.kr/detail/S000001399869" target="_blank">https://product.kyobobook.co.kr/detail/S000001399869</a> <br><br>
+<br>SQLP/D 자격취득
+<br>DBMS 및 SQL에 대한 깊은 이해
+<br>DB설계 및 쿼리 튜닝 실력 향상
+<br><br>
+<br>독서
+<br>내용 정리 및 발표
+]]></description><link>SQL 전문가 가이드 (SQLP,D 자격취득).html</link><guid isPermaLink="false">SQL 전문가 가이드 (SQLP,D 자격취득).md</guid><pubDate>Mon, 21 Oct 2024 23:52:54 GMT</pubDate></item></channel></rss>
